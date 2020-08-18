@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <body>
+	<style>
+	td {
+		border: 1px solid black;
+	}
+	.c15 {
+		color: green;
+	}
+	.c10 {
+		color: yellow;
+	}
+	.c0 {
+		color: red;
+	}
+	</style>
+	<span id='letterSpan'></span>
+	<span id='timerSpan'></span>
+	<table>
+		<tbody>
+			<tr>
+				<th>User</th>
+				<th>Country</th>
+				<!--<th>City</th>-->
+				<th>First name</th>
+				<th>Color</th>
+				<th>Animal</th>
+				<th>Job</th>
+			</tr>
+			<tr>
+			<form>
+				<td></td>
+				<td><input type="text" name="country" autofocus></td>
+				<!--<td><input type="text" name="city" value='new york'></td>-->
+				<td><input type="text" name="name"></td>
+				<td><input type="text" name="color"></td>
+				<td><input type="text" name="animal"></td>
+				<td><input type="text" name="job"></td>
+			</form>
+			</tr>
+		</tbody>
+	</table>
+		
+        <script>
+			var table = document.getElementsByTagName('tbody')[0];
+			var letter, results, timerValue;
+			var websocket = new WebSocket("ws://127.0.0.1:6789/");
+			//var data = {responses:"", letter:"A"};
+			
+			websocket.onopen = function (event) {
+				var login = prompt("Please enter your login");
+				//login = 'baton96';
+				if (login != null && login.length>0) {
+					websocket.send(JSON.stringify({'login': login}));
+					document.getElementsByTagName('td')[0].innerHTML = login;
+				}
+				websocket.onmessage = function (event) {
+					data = JSON.parse(event.data);
+					/*
+					var results = data.results;				
+					for (var i in inputs){
+						var row = document.createElement("tr");
+						table.appendChild(row);
+						var cell = document.createElement("td");
+						row.appendChild(cell);
+						var textNode = document.createTextNode(i);				
+						cell.appendChild(textNode);
+						for (var j in inputs[i]){
+							var cell = document.createElement("td");
+							row.appendChild(cell);
+							var textNode = document.createTextNode(inputs[i][j]);				
+							cell.appendChild(textNode);
+						}
+					}
+					*/
+					table.insertAdjacentHTML("afterend", data.responses);
+				
+					letter = data.letter;
+					document.getElementById('letterSpan').innerHTML = letter;
+					
+					timerValue = 3;
+					var timer = setInterval(function(){
+						if(timerValue<=0) {
+							clearInterval(timer);
+							document.getElementById('timerSpan').innerHTML = timerValue--;
+							var inputs = document.getElementsByTagName('input');
+							var req = {};
+							example = data.example;
+							if(example!=null){
+								var inputs = document.getElementsByTagName('input');
+								for (let i=0;i<inputs.length;i++) {
+									inputs[i].value = example[inputs[i].name]
+								}
+							}
+							for (let i=0;i<inputs.length;i++) {
+								req[inputs[i].name] = inputs[i].value;
+								inputs[i].value = '';
+							}							
+							console.log(JSON.stringify(req));
+							websocket.send(JSON.stringify(req));
+						}
+						else document.getElementById('timerSpan').innerHTML = timerValue--;
+					}, 1000);
+				}
+			}
+        </script>
+    </body>
+</html>
