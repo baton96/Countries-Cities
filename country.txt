@@ -82,8 +82,8 @@ jordan
 kazakhstan
 kenya
 kiribati
-korea north
-korea south
+north korea
+south korea
 kosovo
 kuwait
 kyrgyzstan
@@ -172,11 +172,13 @@ turkey
 turkmenistan
 tuvalu
 uganda
+uk
 ukraine
 united arab emirates
 united kingdom
 united states
 uruguay
+usa
 uzbekistan
 vanuatu
 vatican

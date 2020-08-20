@@ -71,7 +71,6 @@ abou el hassan
 abovyan
 abqaiq
 abra pampa
-abreu e lima
 abreus
 abrtah
 absecon
@@ -1359,7 +1358,6 @@ arroyito
 arroyo grande
 arroyo naranjo
 arroyo seco
-arroyos y esteros
 arsenyev
 arsikere
 arsin
@@ -1641,9 +1639,7 @@ awbr
 aweil
 awgu
 awjilah
-awka
-awsh s
-awsm
+awkaawsm
 axim
 axochiapan
 axum
@@ -1841,9 +1837,7 @@ bagar
 bagasra
 bagayevskaya
 bagdarin
-bage
-baggabag b
-baghdad
+bagebaghdad
 bagheria
 baghlan
 baghln
@@ -2654,7 +2648,6 @@ bende
 bender
 bendigo
 bendorf
-benedikt v slovenskih goricah
 beneov
 benetsser
 benevento
@@ -3096,7 +3089,6 @@ birkhadem
 birkirkara
 birmingham
 birmitrapur
-birni n konni
 birni nkonni
 birnin kebbi
 birnin kudu
@@ -3562,7 +3554,7 @@ brad
 bradenton
 brades
 bradford
-bradford west gwillimbury
+bradford gwillimbury
 bradley
 brady
 braga
@@ -3823,28 +3815,6 @@ buckow
 bucyrus
 buda
 budapest
-budapest i kerlet
-budapest ii kerlet
-budapest iii kerlet
-budapest iv kerlet
-budapest ix kerlet
-budapest vi kerlet
-budapest vii kerlet
-budapest viii kerlet
-budapest x kerlet
-budapest xi kerlet
-budapest xii kerlet
-budapest xiii kerlet
-budapest xiv kerlet
-budapest xix kerlet
-budapest xv kerlet
-budapest xvi kerlet
-budapest xvii kerlet
-budapest xviii kerlet
-budapest xx kerlet
-budapest xxi kerlet
-budapest xxii kerlet
-budapest xxiii kerlet
 budars
 budaun
 buddh gaya
@@ -4063,7 +4033,6 @@ byumba
 bziers
 bzpur
 bzrak
-c chi
 c mau
 ca
 ca mau
@@ -4446,7 +4415,6 @@ carletonville
 carlingford
 carlinville
 carlisle
-carlos a carrillo
 carlos barbosa
 carlow
 carlsbad
@@ -4618,7 +4586,6 @@ caucete
 cauquenes
 causeni
 cauto cristo
-cava d tirreni
 cavaillon
 cave creek
 cavite city
@@ -5886,9 +5853,7 @@ crystal city
 crystal lake
 crystal springs
 csis
-csongrd
-ct b
-ctesaintluc
+csongrdctesaintluc
 cuajimalpa
 cuamba
 cuauhtemoc
@@ -5983,9 +5948,7 @@ czelad
 czerwionkaleszczyny
 czna
 czstochowa
-czyca
-d
-da lat
+czycada lat
 da nang
 daan
 dabas
@@ -6899,7 +6862,6 @@ dznharaa
 dzuunharaa
 dzuunmod
 dzyarzhynsk
-e aiyiba
 eagan
 eagar
 eagle
@@ -6911,54 +6873,54 @@ ealing
 earlsfield
 earlwood
 easley
-east alton
-east aurora
-east bethel
-east brainerd
-east brunswick
-east chattanooga
-east chicago
-east cleveland
-east concord
-east florence
-east grand forks
-east grand rapids
-east ham
-east hemet
-east hillmeridian
-east hills
-east independence
-east jerusalem
-east lake
-east lakeorient park
-east lansing
-east liverpool
-east london
-east longmeadow
-east los angeles
-east massapequa
-east meadow
-east millcreek
-east moline
-east new york
-east northport
-east orange
-east palo alto
-east patchogue
-east pensacola heights
-east peoria
-east point
-east providence
-east rancho dominguez
-east ridge
-east riverdale
-east rochester
-east rockaway
-east rutherford
-east saint louis
-east setauket
-east stroudsburg
-east wenatchee
+alton
+aurora
+bethel
+brainerd
+brunswick
+chattanooga
+chicago
+cleveland
+concord
+florence
+grand forks
+grand rapids
+ham
+hemet
+hillmeridian
+hills
+independence
+jerusalem
+lake
+lakeorient park
+lansing
+liverpool
+london
+longmeadow
+los angeles
+massapequa
+meadow
+millcreek
+moline
+new york
+northport
+orange
+palo alto
+patchogue
+pensacola heights
+peoria
+point
+providence
+rancho dominguez
+ridge
+riverdale
+rochester
+rockaway
+rutherford
+saint louis
+setauket
+stroudsburg
+wenatchee
 eastchester
 easthampton
 eastlake
@@ -9098,7 +9060,6 @@ gusinoozyorsk
 guskhara
 guskhrustalnyy
 gustavia
-gustavo a madero
 gustine
 gutao
 guthrie
@@ -9134,9 +9095,7 @@ gyula
 gyumri
 gyzlarbat
 gzira
-h ng
 h tin
-h tnh
 ha giang
 ha tinh
 haa
@@ -9221,9 +9180,7 @@ halacho
 halba
 halberstadt
 haldaur
-halden
-haldensleben i
-haldia
+haldenhaldia
 haldwani
 hale
 haledon
@@ -9302,7 +9259,6 @@ hang dong
 hanggin houqi
 hangu
 hangzhou
-hani i elezit
 hania
 haninge
 hann
@@ -9499,7 +9455,7 @@ heistopdenberg
 hekinan
 helchteren
 helena
-helenawest helena
+helenahelena
 hellersdorf
 hellertown
 hellevoetsluis
@@ -10075,9 +10031,7 @@ hyesansi
 hyeson
 hyres
 hyrum
-hyvinge
-i
-iai
+hyvingeiai
 ialoveni
 iar nad hronom
 iara
@@ -10316,7 +10270,6 @@ indpur
 indramayu
 indri
 ine
-ingeniero guillermo n juarez
 ingeniero jacobacci
 ingenio
 ingham
@@ -11014,8 +10967,6 @@ joaaba
 joacaba
 joalfadiout
 joao pessoa
-joaquin v gonzalez
-joaqun v gonzlez
 jobabo
 jocotenango
 jocotepec
@@ -11063,7 +11014,6 @@ jorht
 jos
 jos bonifcio
 jos de freitas
-jose batlle y ordonez
 jose paganiban
 joshua
 joulstours
@@ -13272,7 +13222,6 @@ lanciennelorette
 lancing
 lancourt
 lancy
-land o lakes
 landau in der pfalz
 lander
 landerneau
@@ -13555,7 +13504,6 @@ lemoore
 lemosos
 lempl
 len
-lenart v slovenskih goricah
 lenbe
 lendava
 lenexa
@@ -14056,7 +14004,6 @@ los lunas
 los mochis
 los ngeles
 los palacios
-los palacios y villafranca
 los patios
 los ranchos de albuquerque
 los rastrojos
@@ -14273,7 +14220,6 @@ lyubertsy
 lyublino
 lyubotyn
 lyudinovo
-m tho
 ma
 maalot tarshh
 maan
@@ -14355,9 +14301,7 @@ madison
 madison heights
 madisonville
 madiun
-madnat amad
-madnat s
-madnat sittah uktbar
+madnat amadmadnat sittah uktbar
 madona
 madras
 madrid
@@ -15486,7 +15430,7 @@ midrand
 midsayap
 midvale
 midway
-midwest city
+midcity
 midyat
 midzyrzec podlaski
 midzyrzecz
@@ -15739,7 +15683,6 @@ mntsl
 mnvadar
 mnvi
 mnwat
-mo i rana
 moa
 moaa
 moab
@@ -15890,7 +15833,6 @@ montargis
 montauban
 montbliard
 montbrison
-montcada i reixac
 montceaulesmines
 montclair
 montdemarsan
@@ -16414,9 +16356,7 @@ myszkw
 mytilni
 mytishchi
 mzimba
-mzuzu
-n
-na erythraa
+mzuzuna erythraa
 na filadlfeia
 na iona
 na klang
@@ -16980,9 +16920,7 @@ neyrz
 neyshabur
 neyyttinkara
 nezahualcoyotl
-nezlobnaya
-ng h
-ngamangala
+nezlobnayangamangala
 nganjuk
 ngaoundere
 ngaoundr
@@ -17027,7 +16965,6 @@ nichelino
 nichinan
 nichlaul
 nicholasville
-nicols r casillas
 nicols romero
 nicosia
 nicoya
@@ -18127,9 +18064,7 @@ ozorkw
 ozry
 ozubulu
 ozumba de alzate
-ozurgeti
-p
-pa sang
+ozurgetipa sang
 paamiut
 paan
 paarl
@@ -19255,7 +19190,6 @@ ponte vedra beach
 ponteareas
 pontedera
 pontefract
-pontes e lacerda
 pontevedra
 pontiac
 pontian kechil
@@ -19814,7 +19748,6 @@ qahderjn
 qairouan
 qal at bishah
 qala
-qala i naw
 qalansuwa
 qalat
 qalat bshah
@@ -19982,7 +19915,6 @@ quvasoy
 quwaysin
 quzhou
 qyzylorda
-r nad szavou
 r nad szavou druhy
 raahe
 raalte
@@ -20903,9 +20835,7 @@ rzeszow
 rzeszw
 rzhev
 rzm
-sa kaeo
-sa p
-saa
+sa kaeosaa
 saalfeld
 saalfelden am steinernen meer
 saar
@@ -21307,7 +21237,6 @@ san dimas
 san don di piave
 san donato milanese
 san elizario
-san felice a cancello
 san felipe
 san fernando
 san fernando de apure
@@ -21325,7 +21254,6 @@ san gabriel
 san germn
 san gil
 san giljan
-san giorgio a cremano
 san giovanni in fiore
 san giovanni in persiceto
 san giovanni la punta
@@ -21612,7 +21540,6 @@ santa cruz xoxocotln
 santa elena
 santa elena de uairn
 santa eulria des riu
-santa f do sul
 santa fe
 santa fe de la vera cruz
 santa fe springs
@@ -22201,7 +22128,7 @@ sestroretsk
 sestu
 sesvete
 setakamachitakayanagi
-setauketeast setauket
+setauketsetauket
 setbal
 sete lagoas
 sethrja old
@@ -22314,7 +22241,6 @@ shaoxing
 shaoyang
 shaping
 shar
-shar e kord
 sharan
 sharbaqty
 shardara
@@ -23269,7 +23195,7 @@ southlake
 southport
 southsea
 southside
-southwest ranches
+southranches
 sovetsk
 sovetskaya gavan
 sovetskiy
@@ -23777,8 +23703,6 @@ sveh
 svencionys
 svendborg
 sverdlovsk
-sveta ana v slovenskih goricah
-sveta trojica v slovenskih goricah
 sveti jurij ob scavnici
 sveti nikole
 svetlanovskiy
@@ -24003,9 +23927,7 @@ taloyoak
 talsi
 taltal
 talwandi bhai
-talwra
-tam k
-tam ky
+talwratam ky
 tamale
 tamalous
 tamamura
@@ -24507,19 +24429,13 @@ thne
 thnesar
 thnh ph bc liu
 thnh ph cao bng
-thnh ph h giang
-thnh ph h long
 thnh ph ha bnh
 thnh ph hi dng
 thnh ph lng sn
 thnh ph nam nh
-thnh ph ninh bnh
-thnh ph ph l
-thnh ph thi bnh
+thnh ph ninh bnhthnh ph thi bnh
 thnh ph thi nguyn
-thnh ph tuyn quang
-thnh ph ung b
-thoen
+thnh ph tuyn quangthoen
 thohoyandou
 thomaston
 thomastown
@@ -24900,8 +24816,6 @@ tournavista
 tournefeuille
 tours
 tovuz
-town and country
-town n country
 townsville
 towson
 toyama
@@ -24953,7 +24867,6 @@ trebiov
 trebnje
 trecate
 trece martires city
-treinta y tres
 trelew
 trelleborg
 tremblayenfrance
@@ -25551,7 +25464,6 @@ uzhur
 uzice
 uzlovaya
 uzunkpr
-v thanh
 vaasa
 vac
 vacaria
@@ -25906,7 +25818,6 @@ vilaka
 vilalba
 vilanculos
 vilani
-vilanova i la geltr
 vilar de andorinho
 vilareal
 vilaseca
@@ -26524,79 +26435,79 @@ wesley hills
 wesoa
 wesseling
 wesselsbron
-west albany
-west allis
-west and east lealman
-west babylon
-west bend
-west bloomfield township
-west bountiful
-west bridgford
-west bromwich
-west carson
-west chester
-west chicago
-west columbia
-west coon rapids
-west covina
-west des moines
-west dundee
-west elkridge
-west end
-west fargo
-west frankfort
-west gulfport
-west hartford
-west haven
-west haverstraw
-west hempstead
-west hills
-west hollywood
-west island
-west islip
-west jerusalem
-west jordan
-west kelowna
-west lafayette
-west lake sammamish
-west lake stevens
-west linn
-west little river
-west long branch
-west melbourne
-west memphis
-west miami
-west mifflin
-west milford
-west molesey
-west monroe
-west new york
-west odessa
-west orange
-west palm beach
-west park
-west pennant
-west pensacola
-west plains
-west point
-west puente valley
-west raleigh
-west richland
-west sacramento
-west saint paul
-west salem
-west scarborough
-west seneca
-west springfield
-west tawakoni
-west torrington
-west university place
-west valley city
-west vancouver
-west view
-west warwick
-west wendover
-west whittierlos nietos
+albany
+allis
+and lealman
+babylon
+bend
+bloomfield township
+bountiful
+bridgford
+bromwich
+carson
+chester
+chicago
+columbia
+coon rapids
+covina
+des moines
+dundee
+elkridge
+end
+fargo
+frankfort
+gulfport
+hartford
+haven
+haverstraw
+hempstead
+hills
+hollywood
+island
+islip
+jerusalem
+jordan
+kelowna
+lafayette
+lake sammamish
+lake stevens
+linn
+little river
+long branch
+melbourne
+memphis
+miami
+mifflin
+milford
+molesey
+monroe
+new york
+odessa
+orange
+palm beach
+park
+pennant
+pensacola
+plains
+point
+puente valley
+raleigh
+richland
+sacramento
+saint paul
+salem
+scarborough
+seneca
+springfield
+tawakoni
+torrington
+university place
+valley city
+vancouver
+view
+warwick
+wendover
+whittierlos nietos
 westbrook
 westbury
 westchase
