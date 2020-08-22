@@ -9,7 +9,6 @@ alligator
 alpaca
 american
 anaconda
-anemone fish
 angelfish
 angora
 anole
@@ -40,7 +39,6 @@ bass
 bat
 beagle
 bear
-bearded dragon
 beaver
 bee
 beeeater
@@ -462,7 +460,6 @@ snake
 snowshoe
 somali
 spaniel
-spanish flag
 sparrow
 sparrowhawk
 spider
