@@ -17,11 +17,10 @@ mydb = connect(
     database='panstwamiasta'
 )
 mycursor = mydb.cursor()
-fetchone = mycursor.fetchone
-data2 = {'country': '', 'animal': '', 'job': '', 'name': '', 'color': ''}
+fieldNames = ('country', 'animal', 'job', 'name', 'color')
 
 
-def foo(user):
+def cheat_move(user):
     global letter
     global response
     mycursor.execute('SELECT ' + ', '.join(
@@ -30,12 +29,9 @@ def foo(user):
          f'WHERE value LIKE "{letter}%" '
          f'ORDER BY RAND() '
          f'LIMIT 1)'
-         for key in data2.keys()]))
+         for key in fieldNames]))
     response['example'] = dict(
-        zip(
-            data2.keys(),
-            fetchone()
-        )
+        zip(fieldNames, mycursor.fetchone())
     )
     return user.send(json.dumps(response))
 
@@ -46,6 +42,7 @@ def changeLetter():
 async def counter(websocket, _):
     global letter
     global response
+    global logins
     try:
         async for message in websocket:
             data = json.loads(message)
@@ -53,8 +50,7 @@ async def counter(websocket, _):
                 logins[websocket] = data['login']
                 if len(logins) > 0: # Enough players, start the game
                     await asyncio.wait(
-                        map(foo, logins.keys())
-                        # [foo(user) for user in logins.keys()]
+                        map(cheat_move, logins.keys())
                     )
             else:
                 login = logins[websocket]
@@ -68,8 +64,7 @@ async def counter(websocket, _):
                 valid[login] = dict(
                     zip(
                         data.keys(),
-                        map(bool, fetchone())
-                        # [i is not None for i in mycursor.fetchone()]))
+                        map(bool, mycursor.fetchone())
                     )
                 )
 
@@ -81,7 +76,8 @@ async def counter(websocket, _):
 
                         points = {name:
                                       0 if not valid[actualKey][name] else (
-                                          10 if value in [other[name] for other in others] else 15)
+                                          10 if value in (other[name] for other in others)
+                                              else 15)
                                   for name, value in
                                   actualFields.items()}
                         response['responses'] += f'<tr><td>{actualKey}</td><td' + \
@@ -92,7 +88,8 @@ async def counter(websocket, _):
                     responses.clear()
                     valid.clear()
 
-                    await asyncio.wait([foo(user) for user in logins.keys()])
+                    await asyncio.wait([cheat_move(user) for user in logins.keys()])
+                    # await asyncio.wait(list(map(cheat_move, logins.keys())))
     finally:
         del logins[websocket]
 

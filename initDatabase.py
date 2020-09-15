@@ -11,7 +11,7 @@ mycursor.execute('CREATE DATABASE panstwamiasta')
 mydb = connect(**conOptions, database='panstwamiasta')
 mycursor = mydb.cursor()
 for file in files:
-    mycursor.execute(f'CREATE TABLE {file} (value VARCHAR(25))')
+    mycursor.execute(f'CREATE TABLE {file} (VALUE VARCHAR(25))')
     with open(file + '.txt', 'r') as f:
         mycursor.executemany(
             f'INSERT INTO {file} VALUES (%s)', [(line.strip(),) for line in f]
